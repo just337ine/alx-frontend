@@ -469,7 +469,7 @@ a:active {
   content: "";
 }
 
-.card-wwork:hover .card-title {
+.card-work:hover .card-title {
   opacity: 1;
 }
 .section {
